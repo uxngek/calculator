@@ -4,6 +4,7 @@ body{
     align-items: center;
     /*align-items: center;-перемещает 
     объекты в центр по вертикале*/
+    width:100%;
 
     flex-direction: column;
     /*flex-direction: column;-строчные элементы
